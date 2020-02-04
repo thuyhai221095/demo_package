@@ -1,6 +1,6 @@
 {
     "name": "scuti/deeppermission",
-    "description": "permission & role",
+    "description": "permission & role 1",
     "type": "library",
     "require": {
         "maatwebsite/excel": "*",
